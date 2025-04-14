@@ -1,0 +1,7 @@
+[submodule "pash"]
+	path = pash
+	url = https://github.com/binpash/pash.git
+	branch = caruca-eval
+[submodule "benchmarks"]
+	path = benchmarks
+	url = https://github.com/binpash/benchmarks.git
